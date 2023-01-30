@@ -10,6 +10,10 @@
 - Redis (in Docker) — latest stable version (currently it's `redis:7` in [Docker Hub](https://hub.docker.com/_/redis/tags?page=1&name=7)
 - Operating system — I recommend macOS or Linux. Using Windows is completely OK though, but please install Ubuntu as [Linux in Windows (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)
 
+## Starting a new project
+
+Please clone our [repository template](https://github.com/sptmlearningjs/repo-template) to start from. It already contains all configs you need like ESLint config, TypeScript config and .gitignore
+
 ## Configs we use
 
 - [eslintrc.js](https://gist.github.com/sptmru/26846d0ddf38810babcecb9044bcff01)
