@@ -19,5 +19,5 @@
 ## Useful links
 
 - [Invitation form](https://docs.google.com/forms/d/e/1FAIpQLSdvS3xFFiPOJuU3GEfQ1gQibpYLarMXca1vaKQA9AnLE-LTVg/viewform) (feel free to share with anyone willing to join us. Joining is not guaranteed though and depends on how many free time I have)
-- [Q&A] (actually it's our Notion knowledge base) (https://www.notion.so/6674e956e02543838a64cbfa7b5babc7?v=266a0650ea6e4b13b7abee6e670c9763)
+- [Knowledge base] (https://www.notion.so/6674e956e02543838a64cbfa7b5babc7?v=266a0650ea6e4b13b7abee6e670c9763)
 - Meetup records (not implemented yet)
